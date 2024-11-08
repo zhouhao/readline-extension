@@ -1,4 +1,4 @@
-# <img src="public/icons/icon_48.png" width="45" align="left"> Readline Extension
+# <img src="public/icons/icon.png" width="45" align="left"> Readline Extension
 
 My Chrome Extension
 
