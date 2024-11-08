@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/chrome, @types/cloudflare, @types/cloudflare-apps, @types/jquery, @types/mark.js, @types/pouchdb-browser, @types/toastr}" />
+  </component>
+</project>
