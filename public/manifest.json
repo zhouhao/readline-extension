@@ -14,5 +14,5 @@
   "action": {
     "default_title": "Readline Extension"
   },
-  "permissions": ["activeTab", "scripting", "tabs"]
+  "permissions": ["activeTab", "scripting"]
 }
