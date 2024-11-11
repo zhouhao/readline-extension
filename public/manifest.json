@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Shark Eagle Readline",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Shark Eagle Readline Extension",
   "icons": {
     "32": "icons/icon.png",
