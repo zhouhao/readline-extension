@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Shark Eagle Readline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shark Eagle Readline Extension",
   "icons": {
     "32": "icons/icon.png",
@@ -14,20 +14,5 @@
   "action": {
     "default_title": "Readline Extension"
   },
-  "permissions": [
-    "activeTab"
-  ],
-  "content_scripts": [
-    {
-      "matches": [
-        "<all_urls>"
-      ],
-      "js": [
-        "contentScript.js"
-      ],
-      "css": [
-        "contentScript.css"
-      ]
-    }
-  ]
+  "permissions": ["activeTab", "scripting", "tabs"]
 }
