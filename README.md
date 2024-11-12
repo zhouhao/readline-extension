@@ -1,19 +1,13 @@
 # <img src="public/icons/icon.png" width="45" align="left"> Readline Extension
 
-My Chrome Extension
+Extension that can help you read web content by displaying a reading bar.
 
-## Features
-
-- Feature 1
-- Feature 2
 
 ## Install
 
-[**Chrome** extension]() <!-- TODO: Add chrome extension link inside parenthesis -->
+[**Chrome** extension](https://chromewebstore.google.com/detail/shark-eagle-readline/fcpdaakhpogdeimhhibkceonbehgddam) <!-- TODO: Add chrome extension link inside parenthesis -->
 
-## Contribution
-
-Suggestions and pull requests are welcomed!.
+![demo](https://s.hzhou.link/img/readline.gif)
 
 ---
 
