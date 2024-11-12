@@ -7,7 +7,7 @@ Extension that can help you read web content by displaying a reading bar.
 
 [**Chrome** extension](https://chromewebstore.google.com/detail/shark-eagle-readline/fcpdaakhpogdeimhhibkceonbehgddam) <!-- TODO: Add chrome extension link inside parenthesis -->
 
-![demo](https://s.hzhou.link/img/readline.gif)
+![demo](https://s.hzhou.link/img/readline2.gif)
 
 ---
 
